@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506681661004",
+    "project_id": "carlist-3c387",
+    "storage_bucket": "carlist-3c387.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506681661004:android:4db7796b70aa0da52ac6e9",
+        "android_client_info": {
+          "package_name": "ipca.example.carlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTrOc-YjYAj35RK-1Nc2zhcuJWH8901g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
